@@ -1,0 +1,6 @@
+{
+  "name": "Catalyst: Crisis Lab",
+  "description": "A cooperative engine-building and grid survival board game where Chief Chemists bond molecules, control states of matter, and navigate a 3D research facility to prevent a chemical meltdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
